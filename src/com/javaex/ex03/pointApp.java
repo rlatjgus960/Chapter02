@@ -2,7 +2,15 @@ package com.javaex.ex03;
 
 public class pointApp {
 
-	public static void main(String[] args) {
+	//필드
+	
+	//생성자
+	
+	//메소드(g/s)
+	
+	//메소드(일반)
+	
+	public static void main(String[] args) {  //이것도 메소드의 하나
 		
 		Point p1 = new Point();
 		Point p2 = new Point();
