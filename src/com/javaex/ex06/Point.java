@@ -33,7 +33,7 @@ public class Point {
 	
 	//메소드-게터세터
 	
-		public void setX(int x) {
+	public void setX(int x) {
 		this.x = x;
 	}
 	

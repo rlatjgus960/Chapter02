@@ -8,6 +8,7 @@ public class PointApp {
 		
 		p01.setX(5);
 		p01.setY(5);
+		p01.setX(10);
 		p01.draw();
 
 		Point p02 = new Point(6,6);
